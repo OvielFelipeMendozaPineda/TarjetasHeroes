@@ -1,0 +1,148 @@
+{
+  "marvel": [
+    {
+      "about": "The Wasp is a fictional superhero appearing in American comic books published by Marvel Comics. She is usually depicted as having the ability to shrink to a height of several centimeters, fly by means of insectoid wings, and fire bioelectric energy blasts.",
+      "picture": "https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+      "name": "The Wasp",
+      "year": "1960"
+    },
+    {
+      "about": "Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby.",
+      "picture": "https://cdn.marvel.com/content/1x/002irm_ons_crd_03.jpg",
+      "name": "Iron Man",
+      "year": "1960"
+    },
+    {
+      "about": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in Amazing Fantasy #15 (cover-dated Aug. 1962) published by Marvel Comics.",
+      "picture": "https://cdn.marvel.com/content/1x/005smp_ons_crd_02.jpg",
+      "name": "Spider-Man"
+    },
+    {
+      "about": "Captain America is a superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1 (cover dated March 1941).",
+      "picture": "https://cdn.marvel.com/content/1x/003cap_ons_crd_03.jpg",
+      "name": "Captain America"
+    },
+    {
+      "about": "Thor is a fictional superhero appearing in American comic books published by Marvel Comics. The character is based on the Norse deity of the same name, and was created by writer Stan Lee, scripter Larry Lieber, and penciller Jack Kirby.",
+      "picture": "https://cdn.marvel.com/content/1x/004tho_ons_crd_04.jpg",
+      "name": "Thor"
+    },
+    {
+      "about": "Black Widow is a fictional character appearing in American comic books published by Marvel Comics. She was created by editor and plotter Stan Lee, scripter Don Rico, and artist Don Heck.",
+      "picture": "https://cdn.marvel.com/content/1x/011blw_ons_crd_04.jpg",
+      "name": "Black Widow"
+    },
+    {
+      "about": "Hulk is a fictional superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962).",
+      "picture": "https://cdn.marvel.com/content/1x/006hbb_ons_crd_03.jpg",
+      "name": "Hulk"
+    },
+    {
+      "about": "Doctor Strange is a fictional superhero appearing in American comic books published by Marvel Comics. Created by artist Steve Ditko and writer Stan Lee, the character first appeared in Strange Tales #110 (cover-dated July 1963).",
+      "picture": "https://cdn.marvel.com/content/1x/009drs_ons_crd_03.jpg",
+      "name": "Doctor Strange"
+    },
+    {
+      "about": "Black Panther is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer-editor Stan Lee and writer-artist Jack Kirby, first appearing in Fantastic Four #52.",
+      "picture": "https://cdn.marvel.com/content/1x/007blp_ons_crd_02.jpg",
+      "name": "Black Panther"
+    },
+    {
+      "about": "Captain Marvel is the name of several fictional superheroes appearing in American comic books published by Marvel Comics. Most of these versions exist in Marvel's main shared universe, known as the Marvel Universe.",
+      "picture": "https://cdn.marvel.com/content/1x/008cmv_ons_crd_05.jpg",
+      "name": "Captain Marvel"
+    },
+    {
+      "about": "Vision is a fictional superhero appearing in American comic books published by Marvel Comics. The character is an android and a member of the Avengers who first appeared in The Avengers #57 (October 1968).",
+      "picture": "https://cdn.marvel.com/content/1x/013vis_ons_crd_01-1.jpg",
+      "name": "Vision"
+    },
+    {
+      "about": "Scarlet Witch is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer Stan Lee and artist Jack Kirby, first appearing in X-Men #4 in the Silver Age of Comic Books.",
+      "picture": "https://cdn.marvel.com/content/1x/012scw_ons_crd_03.jpg",
+      "name": "Scarlet Witch"
+    },
+    {
+      "about": "Ant-Man is the name of several fictional superheroes appearing in American comic books published by Marvel Comics. The character was originally created by writer Stan Lee, scripter Larry Lieber, and penciller Jack Kirby.",
+      "picture": "https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+      "name": "Ant-Man"
+    },
+    {
+      "about": "Wolverine is a fictional character appearing in American comic books published by Marvel Comics. He is one of the most recognizable and famous Marvel characters.",
+      "picture": "https://cdn.marvel.com/content/1x/034wlv_com_crd_01.jpg",
+      "name": "Wolverine"
+    }
+  ],
+  "dc": [
+    {
+    "about": "Batman is a fictional superhero appearing in American comic books published by DC Comics. The character was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics #27 in 1939.",
+    "picture": "https://hips.hearstapps.com/hmg-prod/images/the-batman-robert-pattinson-1646131934.jpg?crop=0.565xw:1.00xh;0.291xw,0&resize=640:*",
+    "name": "Batman"
+    },
+    {
+    "about": "Superman is a fictional superhero. The character was created by writer Jerry Siegel and artist Joe Shuster, and first appeared in Action Comics #1, a comic book published on April 18, 1938.",
+    "picture": "https://media.glamour.mx/photos/639a9161ae6d5769b13abe3f/1:1/w_1713,h_1713,c_limit/henry_cavill_deja_superman.jpg",
+    "name": "Superman"
+    },
+    {
+    "about": "Wonder Woman is a fictional superhero appearing in American comic books published by DC Comics. The character is a founding member of the Justice League.",
+    "picture": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/wonder-woman/fotos/119538754-1-esl-ES/Fotos.jpg",
+    "name": "Wonder Woman"
+    },
+    {
+    "about": "The Flash is a fictional superhero appearing in American comic books published by DC Comics. The character first appeared in Flash Comics #1, cover-dated January 1940.",
+    "picture": "https://64.media.tumblr.com/75a1e4e2dc6c1cf6fd596cd11d54c84b/9a64dd4f7ce385e6-94/s540x810/2bcc3f38f3849e097cd08f4579a77f0205594209.jpg",
+    "name": "The Flash"
+    },
+    {
+    "about": "Green Lantern is the name of several superheroes appearing in American comic books published by DC Comics. The character fights evil with the aid of rings that grant him a variety of extraordinary powers.",
+    "picture": "https://myhero.com/images/guest/g201500/hero47027/g201500_u52174_Hal_GL_2_A.jpg",
+    "name": "Green Lantern"
+    },
+    {
+    "about": "Aquaman is a superhero appearing in American comic books published by DC Comics. Created by Paul Norris and Mort Weisinger, the character debuted in More Fun Comics #73.",
+    "picture": "https://images.thedirect.com/media/photos/241266319_275226104145453_3304703897119014765_n.jpg",
+    "name": "Aquaman"
+    },
+    {
+    "about": "Green Arrow is a fictional superhero who appears in comic books published by DC Comics. Created by Mort Weisinger and designed by George Papp, he first appeared in More Fun Comics #73 in November 1941.",
+    "picture": "https://static.dc.com/dc/files/default_images/Char_Profile_GreenArrow_5c4915494b4039.94050514.jpg",
+    "name": "Green Arrow"
+    },
+    {
+    "about": "Cyborg is a fictional superhero appearing in American comic books published by DC Comics. The character was created by writer Marv Wolfman and artist George Pérez and first appears in a special insert in DC Comics Presents #26.",
+    "picture": "https://s3.amazonaws.com/comicgeeks/characters/avatars/559.jpg",
+    "name": "Cyborg"
+    },
+    {
+    "about": "Shazam, also known as Captain Marvel, is a fictional superhero appearing in American comic books published by DC Comics. Artist C. C. Beck and writer Bill Parker created the character in 1939.",
+    "picture": "https://ih0.redbubble.net/image.619465404.3305/raf,360x360,075,t,fafafa:ca443f4786.jpg",
+    "name": "Shazam"
+    },
+    {
+    "about": "Martian Manhunter is a fictional superhero appearing in American comic books published by DC Comics. Created by writer Joseph Samachson and designed by artist Joe Certa, the character first appeared in the story \"The Manhunter from Mars\" in Detective Comics #225.",
+    "picture": "https://pics.craiyon.com/2023-07-07/51c49426d3e24546894db46154b54b1b.webp",
+    "name": "Martian Manhunter"
+    },
+    {
+    "about": "Nightwing is a fictional superhero appearing in American comic books published by DC Comics. The character was created by writer Marv Wolfman and artist George Pérez and first appeared in Tales of the Teen Titans #44.",
+    "picture": "https://www.comicfreaks.es/images/articulos/56cd42c20ce584cc1e2272d51d53a3cc.webp",
+    "name": "Nightwing"
+    },
+    {
+    "about": "Batgirl is a superhero appearing in American comic books published by DC Comics, as well as in various television and film adaptations. The character was created by writer Gardner Fox and artist Carmine Infantino.",
+    "picture": "https://i.pinimg.com/474x/fd/4b/67/fd4b67f9bcb1fbd6de63b1f1c0e15d03.jpg",
+    "name": "Batgirl"
+    },
+    {
+    "about": "Harley Quinn is a fictional character appearing in comic books published by DC Comics. The character was created by Paul Dini and Bruce Timm, and first appeared in Batman: The Animated Series in September 1992.",
+    "picture": "https://media.glamour.es/photos/616f91df38abdad04f454cc5/master/w_1600%2Cc_limit/626441.jpg",
+    "name": "Harley Quinn"
+    },
+    {
+    "about": "Catwoman is a fictional character appearing in American comic books published by DC Comics, commonly in association with superhero Batman. Created by Bill Finger and Bob Kane, the character made her debut as \"the Cat\" in Batman #1 (Spring 1940).",
+    "picture": "https://www.egames.news/__export/1680409165595/sites/debate/img/2023/04/01/elena_es_identica_a_la_catwoman_dexmichelle_pfeiffer_en_un_cosplay_de_batman_returns.jpg_423682103.jpg",
+    "name": "Catwoman"
+    }
+  ]
+}
