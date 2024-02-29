@@ -42,7 +42,7 @@ const metodoMain = (heroes) => {
     }
 };
 async function getData() {
-    const filename = "../storage/json/data.json"
+    const filename = "storage/json/data.json"
     return fetch(filename)
         .then(response => response.json())
         .then(data => { heroes = data })
