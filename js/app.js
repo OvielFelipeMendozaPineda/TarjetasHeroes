@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", async (e) => {
             card.style.display = 'none';
             card.style.animation = "fadeIn 0.5s ease-in-out";
         })
-        links.style.background =  "linear-gradient(to right, black, rgb(153, 4, 4),  rgb(168, 0, 0))"
+        links.style.background = "linear-gradient(to right, black, rgb(153, 4, 4),  rgb(168, 0, 0))"
     })
     dcIcon.addEventListener('click', (e) => {
         let cardsMarvel = document.querySelectorAll('.marvel');
@@ -38,7 +38,7 @@ function reload() {
  */
 const metodoMain = (heroes) => {
     for (let i in heroes) {
-        showPreview(heroes[i]);
+        showPreview(heroes[i], i );
     }
 };
 async function getData() {
@@ -55,7 +55,7 @@ async function getData() {
  */
 function cardsCreator(picture, name, franquicia) {
     let card = document.createElement("div");
-    
+
     card.setAttribute('class', 'card ' + franquicia);
     card.setAttribute('id', name)
     let img = document.createElement("img");
@@ -86,11 +86,11 @@ function cardsCreator(picture, name, franquicia) {
  * @param {String} picture 
  * @returns Returns a preview of the superhero.
  */
-function previewCreator(name, about, picture) {
+function previewCreator(name, about, picture, franquicia) {
     let blur = document.createElement("section")
     blur.classList.add("blur");
     let preview = document.createElement("div")
-    preview.classList.add("preview");
+    preview.classList.add("preview", franquicia);
     let img = document.createElement("img");
     let title = document.createElement("h2");
     let description = document.createElement("h3");
@@ -116,6 +116,7 @@ function previewCreator(name, about, picture) {
  */
 function toHTML(heroes) {
     for (let i in heroes) {
+        console.log(i);
         heroes[i].forEach(hero => {
             let card = cardsCreator(hero.picture, hero.name, i)
             main.appendChild(card)
@@ -127,22 +128,16 @@ function toHTML(heroes) {
  * @param {Array} heroes 
  * @returns Shows the preview of the hero with image, name, desciption and year of invention.
  */
-const showPreview = (heroes) => {
+const showPreview = (heroes, i) => {
     let botones = document.querySelectorAll('button')
     botones.forEach(boton => {
         boton.addEventListener('click', () => {
             let botonId = boton.id;
             let ind = heroes.findIndex(hero => hero.name === botonId);
             let existingPreview = main.querySelector(".preview");
-            if (existingPreview) {
-                console.log("");
-            }
-            else {
-                let blur = previewCreator(heroes[ind].name, heroes[ind].about, heroes[ind].picture);
-                main.appendChild(blur);
-                closePreview(existingPreview)
-            }
-
+            let blur = previewCreator(heroes[ind].name, heroes[ind].about, heroes[ind].picture, i);
+            main.appendChild(blur);
+            closePreview(existingPreview)
         })
     })
 };
